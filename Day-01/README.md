@@ -60,8 +60,8 @@ The configuration is split into 6 specialized `.tf` files for better maintainabi
 
 | Name | Description | Default | Valid Options |
 | :--- | :--- | :--- | :--- |
-| `os_type` | The OS to use for the EC2 instance. | `amazon` | `amazon`, `ubuntu`, `rhel` |
-| `bucket_prefix` | The prefix for the unique S3 bucket. | `my-app-data` | Any string |
+| `os_type` | The OS to use for the EC2 instance. | `No Default Value` | `amazon`, `ubuntu`, `rhel` |
+| `bucket_name` | The unique name for the S3 bucket. | `Fetched during runtime using locals` | Any string |
 
 > **Note:** If you enter an invalid OS (e.g., "windows"), Terraform will catch it during the plan phase thanks to the validation block in `variables.tf`.
 
