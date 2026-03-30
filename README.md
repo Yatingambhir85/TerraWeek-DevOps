@@ -2,6 +2,10 @@
 
 Welcome to my **TerraWeek** repository! This project documents my journey through Infrastructure as Code (IaC) on AWS, focusing on scalability, automation, and best practices.
 
+## 🔗 Official Resources
+* **Terraform Registry:** [https://registry.terraform.io/](https://registry.terraform.io/)
+* **Terraform Documentation:** [https://developer.hashicorp.com/terraform](https://developer.hashicorp.com/terraform)
+
 ## 🚀 Project Roadmap & Progress
 
 I am organizing my work into daily challenges. You can navigate through each day's specific implementation using the links below.
