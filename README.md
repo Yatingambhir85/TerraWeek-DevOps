@@ -8,7 +8,7 @@ I am organizing my work into daily challenges. You can navigate through each day
 
 | Day | Status | Milestone | Key Concepts | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | ✅ Complete | **EC2 & S3 Deployment** | Dynamic AMIs, Variables & Validation | [Explore Day 1](./day-01/) |
+| **Day 1** | ✅ Complete | **EC2 & S3 Deployment** | Dynamic AMIs, Variables & Validation | [Explore Day 1](https://github.com/Yatingambhir85/TerraWeek-DevOps/tree/main/Day-01) |
 
 ## 👤 Author
 
